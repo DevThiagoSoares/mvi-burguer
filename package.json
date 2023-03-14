@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "type": "module",
   "engines": {
-    "node": "lts"
+    "node": "18.15.0"
   },
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
